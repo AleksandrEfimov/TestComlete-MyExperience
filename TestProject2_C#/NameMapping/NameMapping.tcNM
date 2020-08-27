@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{D1EC14D1-3D93-4D87-AC8F-7838D5C83505}">
+				<TypeInfo Item0="{7B48519B-5079-4EC5-A1E3-E0852C7080BC}" />
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="browser" Key="{34331B87-E587-41F7-B6F5-EE8D9B97D34D}">
+						<TypeInfo Item0="{3154E60C-2344-43F8-B44A-B90E446490FD}" />
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="pageYandexRu" Key="{C3FBB5D5-EE7A-49D3-9AE1-DAEFF86FA90E}">
+								<Image FileName="-1505459425" Left="8" Top="111" Right="1374" Bottom="736" />
+								<TypeInfo Item0="{03747439-8480-4611-9160-885A002211AA}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://yandex.ru/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panel" Key="{E838E653-3601-4EF3-B4D8-F288A099B548}">
+										<Image FileName="-1505459425" Left="8" Top="111" Right="1357" Bottom="2402" />
+										<TypeInfo Item0="{46BC89F7-378A-4258-96F4-66B4D540ABBB}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Panel" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panel" Key="{DA7DBD42-7B80-4943-8305-DA659CAB65C8}">
+												<Image FileName="-1505459425" Left="8" Top="111" Right="1357" Bottom="2402" />
+												<TypeInfo Item0="{46BC89F7-378A-4258-96F4-66B4D540ABBB}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Panel" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panel" Key="{F3B02331-5C82-4675-962F-D3CB42D49AD0}">
+														<Image FileName="-1505459425" Left="8" Top="167" Right="1357" Bottom="697" />
+														<TypeInfo Item0="{46BC89F7-378A-4258-96F4-66B4D540ABBB}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Panel" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="2" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="panel" Key="{8F3B4344-FC10-41CE-8A17-FCD63E3CE7BF}" ExtendedFind="True">
+																<Image FileName="-1505459425" Left="204" Top="431" Right="1162" Bottom="503" />
+																<TypeInfo Item0="{46BC89F7-378A-4258-96F4-66B4D540ABBB}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="Panel" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="4" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="panel" Key="{2F90A4B7-762C-4FF9-BD68-2BD9607F7AF5}">
+																		<Image FileName="-1505459425" Left="204" Top="431" Right="1040" Bottom="503" />
+																		<TypeInfo Item0="{46BC89F7-378A-4258-96F4-66B4D540ABBB}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="Panel" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="panel" Key="{84D86FD3-3AAD-4715-8321-5498A09AA52B}">
+																				<Image FileName="-1505459425" Left="224" Top="431" Right="1040" Bottom="503" />
+																				<TypeInfo Item0="{46BC89F7-378A-4258-96F4-66B4D540ABBB}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Panel" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="panel" Key="{0902EDAE-F1CC-4C2A-A5B9-69ED1A987997}">
+																						<Image FileName="-1505459425" Left="224" Top="431" Right="1040" Bottom="467" />
+																						<TypeInfo Item0="{46BC89F7-378A-4258-96F4-66B4D540ABBB}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="Panel" />
+																							</Property>
+																							<Property Name="contentText">
+																								<Value Value="Найти" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="panel" Key="{D3055F7B-61FB-4D32-8BEE-102F392556B3}" ExtendedFind="True">
+																								<Image FileName="-1505459425" Left="79" Top="395" Right="219" Bottom="495" />
+																								<TypeInfo Item0="{46BC89F7-378A-4258-96F4-66B4D540ABBB}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="Panel" />
+																									</Property>
+																									<Property Name="ObjectIdentifier">
+																										<Value Value="0" Type="0" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="link" Key="{4689C802-D3E4-4D04-A233-45ABD65CB73B}">
+																										<Image FileName="-1505459425" Left="79" Top="395" Right="219" Bottom="495" />
+																										<TypeInfo Item0="{582BC1D7-D5FD-43C9-A941-7153A731E177}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Link" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="panel" Key="{393B9350-CF3F-4DEC-AACE-E0A6A97B3132}" ExtendedFind="True">
+																												<Image FileName="-1505459425" Left="79" Top="395" Right="219" Bottom="495" />
+																												<TypeInfo Item0="{46BC89F7-378A-4258-96F4-66B4D540ABBB}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="Panel" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
+																									<Child Name="textboxText" Key="{B6516A46-99BF-4054-9739-7D93C0EE777B}" ExtendedFind="True">
+																										<Image FileName="1688165348" Left="224" Top="431" Right="952" Bottom="467" />
+																										<TypeInfo Item0="{AD0C3CE7-9FD6-4FAF-AA3C-AB52138EB0ED}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Textbox" />
+																											</Property>
+																											<Property Name="idStr">
+																												<Value Value="text" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="textboxText" Key="{8065B822-BD39-4185-80BA-10C86390E641}" ExtendedFind="True">
+										<Image FileName="-408016456" Left="216" Top="423" Right="944" Bottom="459" />
+										<TypeInfo Item0="{C3A893AA-EF07-42D0-AFDA-A2829F41137D}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Textbox" />
+											</Property>
+											<Property Name="idStr">
+												<Value Value="text" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="BrowserWindow" Key="{16B08EC1-8259-40E0-8D87-DF8F2A1A6B1B}">
+								<Image FileName="1382612777" Left="-8" Top="-8" Right="1374" Bottom="736" />
+								<TypeInfo Item0="{5B50FA18-22C9-4F2B-B0DF-AE55CD4391AB}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="Item" Key="{4CD1A28F-9110-48EB-A3F4-14ADFB476B00}">
+								<TypeInfo Item0="{5B50FA18-22C9-4F2B-B0DF-AE55CD4391AB}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Chrome_WidgetWin_1" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageWwwGoogleCom" Key="{FAFBA71B-2726-4340-821D-D5AFE629C15B}">
+								<Image FileName="1778074613" Left="8" Top="111" Right="1374" Bottom="736" />
+								<TypeInfo Item0="{03747439-8480-4611-9160-885A002211AA}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.google.com/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="formTsf" Key="{46809370-1A6D-4B0F-BE4D-E3021E104464}" ExtendedFind="True">
+										<Image FileName="1778074613" Left="122" Top="380" Right="1261" Bottom="520" />
+										<TypeInfo Item0="{46BC89F7-378A-4258-96F4-66B4D540ABBB}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Form" />
+											</Property>
+											<Property Name="idStr">
+												<Value Value="tsf" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panel" Key="{3ED092B3-508B-4486-AE05-996A95AD4CB2}">
+												<Image FileName="1778074613" Left="122" Top="380" Right="1261" Bottom="520" />
+												<TypeInfo Item0="{46BC89F7-378A-4258-96F4-66B4D540ABBB}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Panel" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="0" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panel" Key="{343879AB-4046-426F-B102-8B26E69547A7}">
+														<Image FileName="1778074613" Left="399" Top="380" Right="983" Bottom="520" />
+														<TypeInfo Item0="{46BC89F7-378A-4258-96F4-66B4D540ABBB}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Panel" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="panel" Key="{FDEBDDE6-DDA5-4490-9E2B-669C4211324E}">
+																<Image FileName="1778074613" Left="399" Top="432" Right="970" Bottom="520" />
+																<TypeInfo Item0="{46BC89F7-378A-4258-96F4-66B4D540ABBB}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="Panel" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="2" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="submitbuttonGoogle" Key="{C14BDB17-DE7C-4CA1-BDED-5EC80B33ECEB}" ExtendedFind="True">
+																		<Image FileName="1778074613" Left="552" Top="461" Right="685" Bottom="497" />
+																		<TypeInfo Item0="{968B4B4C-A7E6-4297-8726-EB694C6DA0F3}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="SubmitButton" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="btnK" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageYaRu" Key="{3691BEC2-68E6-4344-AE0A-FEF9B7ACCD17}">
+								<Image FileName="1352489881" Left="8" Top="111" Right="1374" Bottom="736" />
+								<TypeInfo Item0="{03747439-8480-4611-9160-885A002211AA}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://ya.ru/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="form" Key="{9A8EEF22-DD56-47E3-8541-B93591408F60}" ExtendedFind="True">
+										<Image FileName="1352489881" Left="299" Top="369" Right="1099" Bottom="415" />
+										<TypeInfo Item0="{46BC89F7-378A-4258-96F4-66B4D540ABBB}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Form" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="textboxText" Key="{1347AE0D-E920-436B-965C-F8414A51D5F5}" ExtendedFind="True">
+												<Image FileName="1352489881" Left="299" Top="369" Right="991" Bottom="415" />
+												<TypeInfo Item0="{AD0C3CE7-9FD6-4FAF-AA3C-AB52138EB0ED}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Textbox" />
+													</Property>
+													<Property Name="idStr">
+														<Value Value="text" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="browser" Owner="{34331B87-E587-41F7-B6F5-EE8D9B97D34D}">
+			<Child Name="pageYandexRu" Owner="{C3FBB5D5-EE7A-49D3-9AE1-DAEFF86FA90E}">
+				<Child Name="link" Owner="{4689C802-D3E4-4D04-A233-45ABD65CB73B}">
+					<Child Name="panel" Owner="{393B9350-CF3F-4DEC-AACE-E0A6A97B3132}" />
+				</Child>
+				<Child Name="textboxText" Owner="{B6516A46-99BF-4054-9739-7D93C0EE777B}" />
+				<Child Name="textboxText2" Owner="{8065B822-BD39-4185-80BA-10C86390E641}" />
+			</Child>
+			<Child Name="BrowserWindow" Owner="{16B08EC1-8259-40E0-8D87-DF8F2A1A6B1B}" />
+			<Child Name="Item" Owner="{4CD1A28F-9110-48EB-A3F4-14ADFB476B00}" />
+			<Child Name="pageWwwGoogleCom" Owner="{FAFBA71B-2726-4340-821D-D5AFE629C15B}">
+				<Child Name="formTsf" Owner="{46809370-1A6D-4B0F-BE4D-E3021E104464}">
+					<Child Name="submitbuttonGoogle" Owner="{C14BDB17-DE7C-4CA1-BDED-5EC80B33ECEB}" />
+				</Child>
+			</Child>
+			<Child Name="pageYaRu" Owner="{3691BEC2-68E6-4344-AE0A-FEF9B7ACCD17}">
+				<Child Name="form" Owner="{9A8EEF22-DD56-47E3-8541-B93591408F60}">
+					<Child Name="textboxText" Owner="{1347AE0D-E920-436B-965C-F8414A51D5F5}" />
+				</Child>
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

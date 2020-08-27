@@ -1,0 +1,11 @@
+﻿function Test1()
+{
+  Browsers["Item"](btChrome)["Run"]("https://yandex.ru/");
+  aqObject["CheckProperty"](Aliases["browser"]["pageYandexRu"]["link"]["panel"], "contentText", cmpEqual, "");
+  var browser = Aliases["browser"];
+  var textbox = browser["pageYandexRu"]["textboxText"];
+  textbox["Click"](168, 26);
+  textbox["SetText"]("z");
+  aqObject["CheckProperty"](Aliases["browser"]["pageYandexRu"]["textboxText"], "Text", cmpEqual, "z");
+  browser["Item"]["Close"]();
+}
